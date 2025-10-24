@@ -61,7 +61,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - RETURN
-  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:backspace$$', type: backspace}
   - '2'
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
